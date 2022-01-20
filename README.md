@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Tanwar</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Priyanka Tanwar</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
